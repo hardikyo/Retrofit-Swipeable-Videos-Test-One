@@ -45,7 +45,7 @@
     "comment_count": 1,
     "id": 7,
     "video_name": "This Video Is For Testing",
-    "video_url": "https://github.com/hardikyo/LS/blob/main/VIDEO%20API/DATA/Audi%20RS7.mp4",
+    "video_url": "https://github.com/hardikyo/LS/raw/main/VIDEO_API/DATA/video_1.mp4",
     "like_count": "500000k"
   },
   {
